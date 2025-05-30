@@ -1,0 +1,3 @@
+by default => type= commonjs
+commonjs => require
+module =>import
