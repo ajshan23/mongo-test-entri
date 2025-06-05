@@ -1,3 +1,23 @@
 by default => type= commonjs
 commonjs => require
 module =>import
+
+
+basic query learning and crud operations
+
+crud operations
+create => data add
+read => data read
+update => data update
+delete => data delete
+
+ajmal => shop=> milk 500ml => hand over
+5 * 500ml milk pack => -1 pack =>data update ,stock update
+
+A shopil => 500ml milk pack stock decrease(-1) : 5-1=4;
+A shope=> 10 pack add => 500ml (4) +(10)=>14 stock ;
+
+500ml milk pack 14 stock
+1L milk pack added to the shop=>new item created there => creation
+500ml data clear 
+
