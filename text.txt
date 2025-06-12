@@ -21,3 +21,18 @@ A shope=> 10 pack add => 500ml (4) +(10)=>14 stock ;
 1L milk pack added to the shop=>new item created there => creation
 500ml data clear 
 
+
+//ansiba  role 1
+//anusree role 2
+//sayooj role 3
+....
+....
+
+//assignment 1
+finish every video
+updateMany use
+book app backend 
+book add 
+book update id, bookname
+book get id,bookname
+book delete id,authorname (multiple books delete)
